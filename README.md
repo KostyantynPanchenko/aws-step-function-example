@@ -184,6 +184,8 @@ This is a modified example of [Getting started with AWS Step Functions](https://
 }
 ```
 
+![Step Function Definition View](step-function-definition-view.jpg)
+
 ---
 
 ## GetCreditLimit lambda
@@ -269,6 +271,11 @@ export const handler = async event => {
   }
 }
 ```
+
+---
+
+## Execution result example
+![Step Function Execution Result](step-function-execution-result.jpg)
 
 ---
 
